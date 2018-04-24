@@ -1,0 +1,650 @@
+[
+  {
+    "class_category": "ACES",
+    "class_category_name": "Achieving Career and Educational Success",
+    "class_level": 100,
+    "class_credits": 3,
+    "class_name": "Achieving Career and Education Success",
+    "class_tags": "",
+    "class_description": "This course presents the skills needed for university success and initiates students to career planning and development. Students evaluate their abilities and interests in order to develop career goals and align these goals with an appropriate course of study. Through a career investigation project, students are introduced to research techniques. Students also improve on academic skills necessary to successfully complete university work, such as critical thinking, study techniques, and test taking strategies. In addition, students are introduced to important dynamics of interpersonal communication and conflict resolution. The course also orients students to the University, to the Davenport University Excellence System, and to other elements of the Davenport curriculum. (This course is required for all new business, health, and technology students, except those transferring with 30 or more semester credits.)"
+  },
+  {
+    "class_category": "COMM",
+    "class_category_name": "Communications",
+    "class_level": 120,
+    "class_credits": 3,
+    "class_name": "Presentation Techniques",
+    "class_tags": "",
+    "class_description": "This course introduces and applies the theories and principles of effective communication. Students learn to organize and present clear, logical messages to specific audiences. They develop confidence in public speaking and increase their ability to inform and persuade listeners. They also implement critical thinking and listening skills. Finally, students exhibit the skills and tools necessary to construct, organize, and deliver effective speeches. Note: Online sections will have a $70.00 book fee included with charges."
+  },
+  {
+    "class_category": "ENGL",
+    "class_category_name": "English",
+    "class_level": 109,
+    "class_credits": 3,
+    "class_name": "Composition",
+    "class_tags": "",
+    "class_description": "This course introduces students to expository and persuasive writing. Employing critical thinking and the writing process, students will compose academic essays utilizing a variety of modes. They will also analyze and respond to a variety of academic and professional readings. Students will evaluate information and audience to improve form and content. Students are also introduced to the research process, including finding, evaluating, and documenting sources, to complete a short research project using the American Psychological Association Style. Online sections of ENGL109 will have a $65.00 fee for books. Note: ENGL109L is a 0 credit hour lab utilized in the Accelerated Learning Program (ALP). There is a $305.00 lab fee included in ENGL109L. Prerequisite(s): Appropriate test scores or successful completion of ENGL021. Student must also complete a diagnostic writing sample."
+  },
+  {
+    "class_category": "ENGL",
+    "class_category_name": "English",
+    "class_level": 110,
+    "class_credits": 3,
+    "class_name": "Advanced Composition",
+    "class_tags": "",
+    "class_description": "This course further develops the skills in expository and persuasive writing that were introduced in ENGL109, English Composition. Students develop critical thinking through the creation of essays and documents that use argumentation and persuasion. As a team, students collaborate to present a required assignment to the class. Students learn to research, evaluate, and incorporate information from both primary and secondary sources, to document secondary sources using APA format, and to analyze information and audiences to improve form and content. Prerequisite(s): ENGL109"
+  },
+  {
+    "class_category": "ENGL",
+    "class_category_name": "English",
+    "class_level": 311,
+    "class_credits": 3,
+    "class_name": "Professional Writing",
+    "class_tags": "",
+    "class_description": "This course develops the written and presentation skills necessary for success in professional, supervisory, or managerial positions. Emphasis on communication in both on-paper and digital media is included. Students also learn to use a variety of formats, styles, and delivery systems to achieve the clear, concise, and professional communication required to communicate in global markets. To stress the importance of workplace communication, students create a major professional document as a team. Prerequisite(s): ENGL110 and COMM120"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 140,
+    "class_credits": 3,
+    "class_name": "Finite Mathematics",
+    "class_tags": "",
+    "class_description": "This course introduces students to the fundamentals of non-calculus-based mathematics. Applications to Managerial Science and Computer Science serve as motivation for course material. Topics include the mathematics of finance (compound interest and annuities), optimization, and decision--making. The use of spreadsheets (Microsoft Excel) to handle more complex calculations will be introduced where appropriate. This course is strongly recommended for students in the Computer Science BS program. Note: Online sections will have a $80.00 book fee included with tuition charges. Prerequisite(s): MATH125"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 215,
+    "class_credits": 4,
+    "class_name": "Calculus I",
+    "class_tags": "",
+    "class_description": "This is a first course in the standard calculus sequence covering differential calculus and an introduction to integral calculus. Topics include: limits and continuity, the definition of the derivative, rules and techniques of differentiation, applications of the derivative (e.g., L?Hopital?s Rule, curve sketching, optimization, etc.), antiderivatives, Riemann sums, the definition of the definite integral, and the Fundamental Theorem of Calculus. Online sections will have an $85.00 ebook/MyMathLab fee included with the course. Note: A grade of C or better is required to take the next course in the sequence. Prerequisite(s): MATH150"
+  },
+  {
+    "class_category": "SOSC",
+    "class_category_name": "Social Science",
+    "class_level": 201,
+    "class_credits": 3,
+    "class_name": "Diversity in Society",
+    "class_tags": "",
+    "class_description": "This course introduces students to the complex issues surrounding diversity in U.S. society and to the need for understanding difference in an increasingly globalized world. Students will explore the social-historical context of multiple experiences on individual, cultural and institutional levels. They will analyze the complex interactions regarding diversity in organizations. Students will also evaluate their own thoughts, attitudes, and behaviors in order to understand their roles in a diverse society. Note: Course sections which are designated (EL) in the title will have an $85.00 field trip fee included with tuition."
+  },
+  {
+    "class_category": "SOSC",
+    "class_category_name": "Social Science",
+    "class_level": 301,
+    "class_credits": 3,
+    "class_name": "Globalization and World Diversity",
+    "class_tags": "",
+    "class_description": "This course introduces students to socioeconomic, political and cultural dimensions of globalization. While employing an interdisciplinary approach, students explore the aspects and driving forces of globalization. Students analyze how macro globalization processes that transcend national boundaries, such as democratization, human rights, global finance, terrorism, pandemics, and environmental changes, impact lives of individuals in various regions of the world. The students critically assess the current and future impacts of issues, payoffs, dangers, and paradoxes of people's choices about the global issues while emphasizing an institutional approach to resolving global problems.\tPrerequisite(s): ENGL109 and SOSC201"
+  },
+  {
+    "class_category": "STAT",
+    "class_category_name": "Statistics",
+    "class_level": 220,
+    "class_credits": 3,
+    "class_name": "Introduction to Statistics",
+    "class_tags": "",
+    "class_description": "This is the basic statistics course in which students learn to collect, analyze, present and interpret data. Descriptive and inferential statistical methods are applied in problem-solving and decision-making situations. Analysis of large, real-world data sets will be performed using statistical software. Online sections will have an $85.00 fee for eBook and MyMathLab. Prerequisite(s): MATH125"
+  },
+  {
+    "class_category": "ACCT",
+    "class_category_name": "Accounting",
+    "class_level": 200,
+    "class_credits": 3,
+    "class_name": "Accounting Basics for Managers",
+    "class_tags": "",
+    "class_description": "This course is designed strictly for the non-business major. It is a comprehensive survey course of financial and managerial accounting concepts that discusses the financial aspects of starting and growing a business. Specifically, the course explores the role of accounting in business, examining the balance sheet, profit/loss statements, and cash flow reports. Students will also learn how to analyze financial statements and financial trends. Prerequisite(s): HINT211, HLTH235, MGMT211 or CISP111"
+  },
+  {
+    "class_category": "BUSN",
+    "class_category_name": "Business",
+    "class_level": 210,
+    "class_credits": 3,
+    "class_name": "Professional Ethics",
+    "class_tags": "",
+    "class_description": "This course explores applied ethics, focusing on social and professional situations especially in the fields of business, law, and tech-nology. Students learn ethical theory as they examine the complexities of ethical dilemmas. Students also compare and contrast ethical and moral systems. In addition, students apply creative and critical thinking to ethical dilemmas involving professional and social responsibility. A $55.00 Peregrine assessment fee is charged in this course."
+  },
+  {
+    "class_category": "MGMT",
+    "class_category_name": "Management",
+    "class_level": 211,
+    "class_credits": 3,
+    "class_name": "Management Foundations",
+    "class_tags": "",
+    "class_description": "This course provides a foundation in basic management principles with special application and focus on the supervisory level of management. The four universal functions of management (planning, organizing, leading, and controlling) are explored. Students learn the theories and study their impact on the history of management practices. Proper case analysis process is also examined and applied through the discussion of various supervisory/managerial case situations. Co-requisite(s): ENGL110"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 111,
+    "class_credits": 3,
+    "class_name": "Requirements Planning and Development",
+    "class_tags": "",
+    "class_description": "This course surveys the main components of the business systems cycle. The five phases of the systems development life cycle (SDLC) (systems planning, system analysis, systems design, systems implementation, and system operation and support) will be investigated. Students will look at how many of the typical business needs are incorporated into a business system. These may include invoicing, accounts receivable, order entry, inventory, accounts payable, payroll, manufacturing, and sales/marketing. Participation in a group project, site visit, or case study will give students a sense of group dynamics in real-world systems development projects. Recommended Prerequisite(s): CISP100"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 247,
+    "class_credits": 3,
+    "class_name": "Database Design",
+    "class_tags": "",
+    "class_description": "This course will examine the major types or data models of Database Management Systems (DBMS): hierarchical, network, relational, and object-oriented. The principles and problems of database design, operation, and maintenance for each data model will be discussed and compared. Topics that will be covered include design theory, query language, relational expressions, SQL, stored procedures, client-server interfaces, entity relationship diagrams, normalization, and database security. Prerequisite(s): CISP111, CISP112, IAAS221 or IAAS224"
+  },
+  {
+    "class_category": "DATA",
+    "class_category_name": "Data",
+    "class_level": 275,
+    "class_credits": 3,
+    "class_name": "Introduction to Data Analytics",
+    "class_tags": "",
+    "class_description": "The basics of data analytics are introduced including descriptive, predictive and prescriptive statistics, regression analysis, and data visualization. The instructional approach is an application-based introduction to data analytics practices such as data cleaning, data organization for analysis, and exploratory data analysis. A key component of instruction is an emphasis on hands-on practice with data analysis projects and presentation of results to multiple audiences. Techniques examined emphasize applicability in multiple organizational sectors including business, healthcare, and technology. There is a $100.00 SPSS software fee included in this course. Prerequisite(s): STAT220"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 250,
+    "class_credits": 3,
+    "class_name": "Discrete Structures",
+    "class_tags": "",
+    "class_description": "This course applies fundamental ideas in discrete structures and mathematical reasoning. Topics include elementary logic and set theory, functions and relations, induction and recursion, elementary algorithm analysis, counting techniques, and introduction to computability. Fundamental techniques include graph theory, Boolean algebra, and trees. Techniques and topics will form the foundation for subsequent programming language courses. Prerequisite(s): CISP111 or CISP112 and MATH130, MATH135 or MATH150"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 231,
+    "class_credits": 3,
+    "class_name": "Introduction to Programming",
+    "class_tags": "",
+    "class_description": "This is an introductory course in object-oriented programming. Students learn fundamental programming concepts including structured programming, operations on data and decision-making, looping, recursion, pointers, scope and class of variables strings, numeric arrays, sorting, and an introduction to data structures. Emphasis will be placed on the design, development, and testing of programs used to solve practical problems. Note: A grade of C or better is required to take the next level of programming courses CSCI 232, CSCI 234 AND CSCI239 Co-requisite(s): CISP111"
+  },
+  {
+    "class_category": "GPMT",
+    "class_category_name": "Project Management",
+    "class_level": 287,
+    "class_credits": 3,
+    "class_name": "Principles of Project Management",
+    "class_tags": "",
+    "class_description": "Students gain an essential understanding of the discipline and approach to the management of projects in a global environment. Topics explained include project definition, resource planning, project scheduling with Gantt charts, project control, as well as planning and scheduling with limited resources. Topics are explored from both a quantitative and qualitative perspective. Students learn and utilize project software throughout the course. Various techniques used in planning, scheduling, ROI, and controlling projects will be explored and applied through the use of simulations. A $65.00 simulation access fee is charged in this course. Prerequisite(s): HINT211, HLTH235, MGMT211 or CISP111"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 232,
+    "class_credits": 3,
+    "class_name": "Object-Oriented Programming with C++",
+    "class_tags": "",
+    "class_description": "This course is a continuation of object-oriented programing utilizing C++. Students learn to design, code, test, and debug programs using object-orientated techniques. Emphasis is placed upon topics such as problem solving, programming structure, arrays, strings, pointers, classes, inheritance, polymorphism, constructors, copy constructors, destructors, overloading operators, virtual functions, I/O file streams, and data files. Students learn how to strengthen problem solving skills and analytical techniques as they apply to their programs a variety of data types, input/output, operators, decisions, looping, and functions. Prerequisite(s): CSCI231 completed with a grade of C or better"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 234,
+    "class_credits": 3,
+    "class_name": "Object-Oriented Programming with C#",
+    "class_tags": "",
+    "class_description": "This continuing course in object-oriented programming exposes students to C# programming and object-oriented analysis and design techniques. Students will design, develop, and test applications used to solve practical problems. Topics explored include classes, inheritance, polymorphism, interfaces, database access, extensible markup language, and network programming. Prerequisite(s): CSCI231 completed with a grade of C or better"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 239,
+    "class_credits": 3,
+    "class_name": "Object-Oriented Programming with Java",
+    "class_tags": "",
+    "class_description": "This course investigates advanced topics in object oriented programming using the Java programming language. Data structures, Trees, Linked Lists, Abstract Data Types, Binary Trees, Graphs, Searching and Sorting Algorithms are covered. Prerequisite(s): CSCI231 completed with a grade of C or better"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 211,
+    "class_credits": 3,
+    "class_name": "E-Business Technologies",
+    "class_tags": "",
+    "class_description": "This course is an introduction to the world of electronic business?business activities carried out electronically via the Internet. Main topic areas include Internet-based technologies used to create new business opportunities, business strategies for e-commerce, hardware and software requirements for e-business activities, security concerns, and payment systems. A discussion of social networking tools and their impact on current businesses will be discussed. Marketing techniques, business models and decision-making processes regarding Internet-based technologies and business decisions will be discussed. Prerequisite(s): CISP111 or CISP112"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 220,
+    "class_credits": 3,
+    "class_name": "Web Page Applications",
+    "class_tags": "",
+    "class_description": "This course covers tools for rapid deployment of common and complex Web solutions. Students will use current techniques to develop, publish, and maintain the most complex of web sites. Topics covered include interfaces, forms, interactive content, media, and e-commerce technologies. Specific skills will be developed in the use of HTML, DHTML (Dynamic Hypertext Markup Language), CSS and JavaScript. Prerequisite(s): CISP111 or CISP112"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 238,
+    "class_credits": 3,
+    "class_name": "Server Side Scripting I",
+    "class_tags": "",
+    "class_description": "This course combines application development with the web site design. Topics include building dynamic database-driven web sites such as online storefronts, payment systems, and back-end business system integration. Note: A grade of C or better is required to take the next course in the sequence. Prerequisite(s): CSCI232, CSCI234, CSCI239, or CISP242"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 309,
+    "class_credits": 3,
+    "class_name": "Database Systems",
+    "class_tags": "",
+    "class_description": "This course covers the use of a relational database management system (RDBMS) in the design and development of database systems. Topics include the use of SQL, DDL, stored procedures, indexes, constraints, triggers, user management, query optimization, and administrative tasks. Prerequisite(s): CISP247"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 340,
+    "class_credits": 3,
+    "class_name": "Mobile Application Development I",
+    "class_tags": "",
+    "class_description": "This course explores the tools, platforms, and techniques required to develop applications for highly mobile and compact devices. Mobile applications will be designed, developed, tested, and deployed that provide computing services to the mobile user. The design implications between traditional desktop application development and mobile application development will be investigated during the course of application development. Note: A grade of C or better is required to take the next course in the sequence. Prerequisite(s): CSCI231"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 312,
+    "class_credits": 3,
+    "class_name": "Data Structures and Algorithms",
+    "class_tags": "",
+    "class_description": "A continuation of object oriented programming, this course investigates advanced topics in technically-oriented programming. Data structures, trees, linked lists, abstract data types, and object--oriented programming are introduced. Prerequisite(s): CSCI232, CSCI234, or CSCI239"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 342,
+    "class_credits": 3,
+    "class_name": "Advanced Object-Oriented Programming",
+    "class_tags": "",
+    "class_description": "This course continues exploring the tools and techniques required to perform object-oriented analysis in an effort to design and build reusable, extensible, efficient, and maintainable software. Design patterns, UML, and object-oriented techniques will be utilized throughout the development lifecycle to design, develop, and test software that meets functional and non-functional requirements. Prerequisite(s): CSCI312"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 401,
+    "class_credits": 3,
+    "class_name": "Systems Analysis and Design",
+    "class_tags": "",
+    "class_description": "The major concepts of systems analysis and design are reinforced. The student will learn how to provide management for projects that employ the methods of data gathering, fact-finding and input/output design. Using case problems, students will implement the techniques of system development and project management. In preparation for the role of a systems analyst or designer, students will be expected to use all of the skills and techniques of an advanced analyst to research a complex project. Prerequisite(s): CISP111, CISP247 and either CSCI232, CSCI234, CSCI239.or CISP242"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 490,
+    "class_credits": 3,
+    "class_name": "Computer Information Systems Internship",
+    "class_tags": "",
+    "class_description": "Contact Career Services at least one semester prior to enrolling. This bachelor-level Computer Information Systems Internship is the integration of previous classroom instruction with new learning acquired through on-the-job work experience. The employment experience should be related as closely as possible to the student?s major field and individual interest. In general, 150?200 hours of career-related work time shall be required at the employment site and evidenced by weekly reports filed by the student. Students will be given information concerning placement site possibilities; however, responsibility for selection by the internship employer rests with the student. The internship may be either paid or unpaid. An appropriate faculty member and the placement site supervisor will evaluate the student?s performance. A $30.00 insurance fee and a $30.00 Internship Management fee are charged in this course. Note: Any unexcused non-attendance or dismissal from an internship will result in a"
+  },
+  {
+    "class_category": "TECH",
+    "class_category_name": "Technology",
+    "class_level": 489,
+    "class_credits": 3,
+    "class_name": "Field Experience in Technology",
+    "class_tags": "",
+    "class_description": "This course provides students the opportunity to apply discipline-related knowledge through live, field-based projects with organizational clients from diverse industries and sectors, including entrepreneurs, small businesses, and non-profit organizations, among others. Teams of three to five students, with support of faculty, provide data, analysis, and recommendations designed to help clients achieve technological advances to solve organizational challenges and to impact growth. This qualifies as an Experiential Learning option within the College of Technology. Prerequisite(s): Senior status and minimum GPA of 2.3"
+  },
+  {
+    "class_category": "TECH",
+    "class_category_name": "Technology",
+    "class_level": 497,
+    "class_credits": 3,
+    "class_name": "College of Technology Capstone",
+    "class_tags": "",
+    "class_description": "This is the capstone for the Bachelor of Applied Science Degree in the College of Technology. Competency of the program will be demonstrated through a project in which the student demonstrates proficiency in their specific major area of study. Students are strongly encouraged to attempt a certification exam relevant to their degree during this course. The estimated cost of an outside certification exam is $125 - $300. Prerequisite(s): Last semester; major courses complete or taken concurrently and GPMT287."
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 325,
+    "class_credits": 3,
+    "class_name": "Data Mining",
+    "class_tags": "",
+    "class_description": "This course will cover the theory of machine learning and data mining as fundamental applications of artificial intelligence and statistics. Topics will include decision trees, neural networks, logistic regression, data preparation and modeling, clustering, classification, entity associations, deviation detection, and link analysis. Techniques will be applied to various professional sectors, including finance, credit rating, fraud detection, database marketing, customer relationship management, and stock market investments. Prerequisite(s): CSCI280 and STAT322"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 446,
+    "class_credits": 3,
+    "class_name": "Data Warehousing",
+    "class_tags": "",
+    "class_description": "The design and implementation of data warehouses (including data marts and operational data stores) are studied using current database technologies. Topics include data modeling for warehouses, data warehousing infrastructure and tool selection, data exploration, data synthesis and reduction, organizational metadata, data warehouse administration, and other contemporary issues. Prerequisite(s): STAT322"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 280,
+    "class_credits": 3,
+    "class_name": "Artificial Intelligence",
+    "class_tags": "",
+    "class_description": "This course will present an introduction to the field of Artificial Intelligence. Topics will include problem solving, search techniques (including game playing), inductive learning, decision trees, reasoning, and natural language understanding. Prerequisite(s): CSCI231 and MATH250"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 420,
+    "class_credits": 3,
+    "class_name": "Distributed Architectures",
+    "class_tags": "",
+    "class_description": "This course will provide an overview of networked computing, the systems and applications supporting and surrounding them. The autonomous nature of distributed computing, as well as design and implementation issues, is examined. Topics include complexity management, concurrency, protocols, security, performance, networking, reliability, fault-tolerance, and middleware. Distributed systems studied will include client-server computing, distributed objects, peer-to-peer, distributed file systems, multicast communication, distributed shared memory, web services and the WWW architecture. Prerequisite(s): CISP247"
+  },
+  {
+    "class_category": "STAT",
+    "class_category_name": "Statistics",
+    "class_level": 322,
+    "class_credits": 3,
+    "class_name": "Inferential Statistics",
+    "class_tags": "",
+    "class_description": "This course introduces students to the advanced methods of data analysis. Particular focus will be given to techniques commonly used in the decision-making processes of those in management and marketing research, as well as those pursuing other careers requiring the interpretation of statistics-based research. Analysis of large, real-world data sets will be performed using statistical software. Online sections will have an $85.00 fee for eBook and MyMathLab. Prerequisite(s): STAT219 or STAT220"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 410,
+    "class_credits": 3,
+    "class_name": "Systems Integration",
+    "class_tags": "",
+    "class_description": "This course will investigate enterprise resource planning (ERP), Enterprise Application Integration (EAI), Business Process Modeling (BPM), and Business Activity Monitoring (BAM) in a global enterprise. An ERP framework will be utilized to implement business processes and measure success benchmarks. Topics include the ERP framework, software implementation, Electronic Data Interchange (EDI), Extensible Markup Language (XML), flat-files, systems planning and implementation, and methodologies for evaluating success using ERP. Recommended Prerequisite(s): CISP405 Prerequisite(s): CISP309 and CSCI312"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 430,
+    "class_credits": 3,
+    "class_name": "Operating Systems",
+    "class_tags": "",
+    "class_description": "This course investigates operating system structure and design. Topics include computer system structures, processes, threads, CPU scheduling, memory management, virtual memory, I/O, protection, and security. Recent advances in operating system theory will be investigated. Prerequisite(s): CSCI312"
+  },
+  {
+    "class_category": "BITS",
+    "class_category_name": "Business Information Technology",
+    "class_level": 301,
+    "class_credits": 3,
+    "class_name": "Image Editing Applications",
+    "class_tags": "",
+    "class_description": "Students create, edit, and prepare graphics for print publications and web sites using professional image editing software. A project approach gives students an advanced-level of understanding of photo editing and design for a variety of media formats. Students will create dynamic artwork using layers, color commands, painting tools, filters, typeface design, and many other image techniques. Upon successful completion of this course, students will have the prerequisite skills to take applicable certification testing. Recommended Prerequisite(s): CISP100 and CISP220"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 303,
+    "class_credits": 3,
+    "class_name": "Web Authoring Applications",
+    "class_tags": "",
+    "class_description": "Students learn to create effective and attractive web pages through the use of a popular web authoring program. Topics of study include layout, typography, graphics, navigation, and color techniques. Students learn the appropriate use of tables, image maps, cascading style sheets, toolbars, and palettes. Publishing and maintaining a website are also integral components of this course. Students will have created many functional and aesthetic web pages upon completion of this course. Upon successful completion of this course, students will have the prerequisite skills to take applicable certification testing. Recommended Prerequisite(s): BITS301 Prerequisite(s): CISP220"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 310,
+    "class_credits": 3,
+    "class_name": "Server Side Scripting II",
+    "class_tags": "",
+    "class_description": "This course extends upon the concepts learned in CISP238; Server-Side Scripting I. Advanced concepts in server-side scripting will be introduced, including webserver configuration, tuning, caching, transactional processing, and localization techniques. Students will design, develop, test, and deploy database applications to simulated test, quality assurance, and production environments. Prerequisite(s): CISP238 completed with a grade of C or better."
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 316,
+    "class_credits": 3,
+    "class_name": "Web Design",
+    "class_tags": "",
+    "class_description": "In this intermediate to advanced web design course students apply the main web site production processes with particular emphasis on design elements involving layout, navigation and interactivity. Hands-on web design exercises will be taught using state of the art software. Design techniques will be discussed and implemented into a functional website that the student will create in the course. Prerequisite(s): BITS303"
+  },
+  {
+    "class_category": "CISP",
+    "class_category_name": "Computer Information Systems",
+    "class_level": 341,
+    "class_credits": 3,
+    "class_name": "Mobile Application Development II",
+    "class_tags": "",
+    "class_description": "This course continues exploring the tools, platforms, and techniques required to develop applications for highly mobile and compact devices. Advanced topics in mobile applications will be discussed with emphasis placed upon the application lifecycle post initial distribution. Topics include debugging, cross-platform development, version management, application distribution, and integrating with web-based services. Prerequisite(s): Completion of CISP340 with a C or better grade"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 150,
+    "class_credits": 4,
+    "class_name": "Pre-Calculus",
+    "class_tags": "",
+    "class_description": "This course is designed to prepare students for the traditional calculus sequence. Topics include: brief review of algebra, solving equations and inequalities, systems of linear and nonlinear equations, the properties and graphs of relations and functions (including polynomial, radical, rational, logarithmic, exponential, and trigonometric), zeros of polynomial functions, trigonometry, conic sections, polar coordinates. Online sections of this course will have an $85.00 ebook/MyMathLab fee included with the course. Prerequisite(s): MATH125"
+  },
+  {
+    "class_category": "CIOP",
+    "class_category_name": "Computer Information Systems Co-op",
+    "class_level": 197,
+    "class_credits": 3,
+    "class_name": "CIS Cooperative Education Seminar",
+    "class_tags": "",
+    "class_description": "The Professional Success Seminar is a required course in preparation for future co-op courses in the CIS program. The course prepares students to apply for and succeed in their first cooperative education experience through professional self-assessments, resume writing, mock interviewing, professional networking and learning professional behavior and presentation skills. Students will develop a plan to successfully participate in future cooperative education experiences. A $30.00 insurance fee is charged in this course. Co-requisite(s): CHEM310 Prerequisite(s): Department Chair Approval"
+  },
+  {
+    "class_category": "CIOP",
+    "class_category_name": "Computer Information Systems Co-op",
+    "class_level": 297,
+    "class_credits": 6,
+    "class_name": "Computer Information Systems Co-op Level I",
+    "class_tags": "",
+    "class_description": ""
+  },
+  {
+    "class_category": "CIOP",
+    "class_category_name": "Computer Information Systems Co-op",
+    "class_level": 397,
+    "class_credits": 6,
+    "class_name": "Computer Information Systems Co-op Level II",
+    "class_tags": "",
+    "class_description": ""
+  },
+  {
+    "class_category": "CIOP",
+    "class_category_name": "Computer Information Systems Co-op",
+    "class_level": 497,
+    "class_credits": 7,
+    "class_name": "Computer Information Systems Co-op Level III",
+    "class_tags": "",
+    "class_description": ""
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 205,
+    "class_credits": 3,
+    "class_name": "Applied Linear Algebra",
+    "class_tags": "",
+    "class_description": "This course introduces the fundamentals of linear algebra (i.e., the notation and algebra of vector spaces and matrices). Because these items have the ability to handle masses of data as a single unit with relative ease, they are of particular interest to those in computer science. Those applications to programming (e.g., 3-D game design, simulation, and biometric security) will serve as context throughout the course. Topics include matrix operations, linear transformations, vector spaces, and 3D geometry. Note: Online sections will have an $85.00 ebook/MyMathLab fee included with the course. Prerequisite(s): MATH140 and MATH135 or MATH150"
+  },
+  {
+    "class_category": "PHYS",
+    "class_category_name": "Physics",
+    "class_level": 100,
+    "class_credits": 2,
+    "class_name": "Applied Physics",
+    "class_tags": "",
+    "class_description": "This course introduces the basic physical principles relating to particle motion, transfer of energy, energy fields and waves, rotational motion, thermodynamics, electromagnetism, material properties, and relativity. Students will apply these principles to physical systems in the virtual or physical laboratory setting. For online sections only, there is an $85.00 fee which covers software and eBooks. Co-requisite(s): PHYS100L Prerequisite(s): MATH125"
+  },
+  {
+    "class_category": "PHYS",
+    "class_category_name": "Physics",
+    "class_level": "100L",
+    "class_credits": 1,
+    "class_name": "Applied Physics Lab",
+    "class_tags": "",
+    "class_description": "(2 contact hours) This course introduces the basic physical principles relating to particle motion, transfer of energy, energy fields and waves, rotational motion, thermodynamics, electromagnetism, material properties, and relativity. Students will apply these principles to physical systems in the virtual or physical laboratory setting. A $30.00 insurance fee is charged in this course. There is a $140.00 lab supplies and insurance fee for this In-seat course. Co-requisite(s): PHYS100 Prerequisite(s): MATH125"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 222,
+    "class_credits": 3,
+    "class_name": "Biometric Fundamentals",
+    "class_tags": "",
+    "class_description": "This course will present an overview of Biometrics, including fingerprint, iris, facial, vocal, and retinal identification techniques. Topics covered will include Biometrics science and E-authentication in the form of person-to-machine, machine-to-person, person-to-person, and machine-to-machine. The accuracy and applications of Biometrics and common techniques for compromising Biometrics tools will also be introduced. Prerequisite(s): IAAS221 or IAAS224"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 258,
+    "class_credits": 3,
+    "class_name": "Introduction to Game Design",
+    "class_tags": "",
+    "class_description": "This course introduces students to the game development process from storyboarding the initial concept to the final marketing documentation. During this course, students will utilize multiple game development methodologies to move a project through the major stages of game design with each student assuming one or more of the development team roles. Prerequisite(s): CISP111"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 260,
+    "class_credits": 3,
+    "class_name": "Software Engineering",
+    "class_tags": "",
+    "class_description": "The key objective of this course is to learn modular design of software and documenting the design using symbolic representations, i.e., UML diagrams. The course will cover software life-cycle models and different phases of the software development process. Object-oriented techniques are key to the course. However, this is not a programming course Prerequisite(s): CSCI231"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 380,
+    "class_credits": 3,
+    "class_name": "Computer Vision",
+    "class_tags": "",
+    "class_description": "The course will focus on image processing and introduce the student to the field of Computer Vision. The goal of Computer Vision is to develop methods that will allow a machine to understand or analyze images/videos. We will explore various fundamental topics in the field typically including image formation, edge detection, segmentation and background subtraction. Prerequisite(s): CSCI222 and CSCI280"
+  },
+  {
+    "class_category": "IAAS",
+    "class_category_name": "Information Assurance and Security",
+    "class_level": 221,
+    "class_credits": 3,
+    "class_name": "Security Foundation",
+    "class_tags": "",
+    "class_description": "This course will provide an overview of information security from both the perspectives of the organization and that of personal computing. Topics include security management practices, physical security, security architecture, business continuity and disaster recovery planning, access control systems, security controls, cryptography, telecommunications and network security, operations security, law and ethics, and personal computer security. Recommended Prerequisite(s): CISP100"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 490,
+    "class_credits": 3,
+    "class_name": "Computer Science Internship",
+    "class_tags": "",
+    "class_description": "Contact Career Services at least one semester prior to enrolling. This bachelor-level Computer Science Internship is the integration of previous classroom instruction with new learning acquired through on-the-job work experience. The employment experience should be related as closely as possible to the student?s major field and individual interest. In general, 150?200 hours of career-related work time shall be required at the employment site and evidenced by weekly reports filed by the student. Students will be given information concerning placement site possibilities; however, responsibility for selection by the internship employer rests with the student. The internship may be either paid or unpaid. An appropriate faculty member and the placement site supervisor will evaluate the student?s performance. Note: Any unexcused non-attendance or dismissal from an internship will result in a grade of F. A Criminal Background check and drug screening may be required by the Internship site. A"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 497,
+    "class_credits": 3,
+    "class_name": "Computer Science Capstone",
+    "class_tags": "",
+    "class_description": "This is the capstone for the Bachelor of Science degree in the Computer Science. Competency of the program will be demonstrated through a project in which the student demonstrates proficiency in their specific major area of study. Prerequisite(s): Last semester; major courses complete or taken concurrently"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 326,
+    "class_credits": 3,
+    "class_name": "Biometric Spoofing",
+    "class_tags": "",
+    "class_description": "This course will cover the inverse problem to Biometrics: Biometric Spoofing! The course will cover concepts and techniques that are used to spoof Biometric Systems. Topics that may be covered will be liveness detection, encryption, template reverse engineering, and cancellable biometrics. The final project for this course typically involves challenging the student to a hands-on experiment where the student will spoof a common biometric device with a variety of attacks. Prerequisite(s): CSCI222 and CSCI231"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 410,
+    "class_credits": 3,
+    "class_name": "Pattern Recognition",
+    "class_tags": "",
+    "class_description": "This course will cover the different types of data classification and how they are applied to the algorithms that classify the unique biometric traits. Supervised and unsupervised learning methods will be covered. Linear models for regression/classification, nearest-neighbor, and neural networks are just some of the topics that may be covered. Note: A grade of C or better is required to take the next course in the sequence. Prerequisite(s): CSCI222 and CSCI312"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 445,
+    "class_credits": 3,
+    "class_name": "Design and Analysis of Algorithms",
+    "class_tags": "",
+    "class_description": "In this course the student will study algorithms that are core to the Computer Science field as well as an in-depth analysis of each type of algorithms. .Selected algorithms may include graph based algorithms, divide and conquer, linear programming, dynamic programming, and computational geometry. Students will also analyze algorithms in order to be able to identify NP-hard problems. Prerequisite(s): CSCI280 and CSCI312"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 446,
+    "class_credits": 3,
+    "class_name": "Advances in Biometrics",
+    "class_tags": "",
+    "class_description": "This course will tie in the fundamentals learned about biometrics in the introductory course with the computer vision and pattern recognition courses. Students will learn techniques that are currently being used and applied to biometrics as well as study the research that is ongoing. Topics covered may include feature extraction techniques, various pattern recognition algorithms and computer vision topics that are currently being discovered and explored. Prerequisite(s): CSCI380 and CSCI410"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 268,
+    "class_credits": 3,
+    "class_name": "Assembly Language and Computer Architecture",
+    "class_tags": "",
+    "class_description": "This course will examine the fundamentals of machine organization, assembly language, and machine language to expose the student to the fundamental operating principles of a central processing unit and related components. Topics may include instruction set architecture, assembling and linking, memory addressing modes, parameter-passing conventions, pipelining, cache and virtual memory organization, I/O and interrupts, registers, RISC vs. CISC, and data representation. Prerequisite(s): CISP111"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 440,
+    "class_credits": 3,
+    "class_name": "Introduction to Modeling and Simulations",
+    "class_tags": "",
+    "class_description": "This course introduces students to the fundamentals of modeling and simulation (M&S). Topics covered include M&S theory, simulation tools, data modeling, discrete event simulation, continuous simulations, and Monte Carlo simulation. Students will design, develop, validate, and verify multiple discrete event simulations. Prerequisite(s): CSCI312"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 335,
+    "class_credits": 3,
+    "class_name": "2D Game Development",
+    "class_tags": "",
+    "class_description": "This course will cover the conventional models and methodologies of computer game design and development. Topics will include the history of games, graphics, multimedia animation, interactive fiction, and game development environments. Lectures and hands-on exercises will stress game design, virtual reality simulations, and the evaluation of human play experiences. Prerequisite(s): CSCI258"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 370,
+    "class_credits": 3,
+    "class_name": "3D Game Development",
+    "class_tags": "",
+    "class_description": "This course will extend the concepts learned and applied in Game Design (CISP335) to the 3D environment. Topics will include advanced design and architecture, creation of 3D game and simulation development, and interactive virtual environments. Lecture and hand-on exercises will stress application creation and execution in a 3D context. Prerequisite(s): CSCI335"
+  },
+  {
+    "class_category": "CSCI",
+    "class_category_name": "Computer Science",
+    "class_level": 448,
+    "class_credits": 3,
+    "class_name": "Collaborative Game Development",
+    "class_tags": "",
+    "class_description": "This course focuses on the development of a functional multiplayer network-enabled game or simulation. Networking code will be developed that employs prediction algorithms to account for network latency. Emphasis will be placed on the management of the design process and the use of tools and technologies that enable collaborative development and management through all stages of the development life cycle. Prerequisite(s): CSCI370"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 216,
+    "class_credits": 4,
+    "class_name": "Calculus II",
+    "class_tags": "",
+    "class_description": "This is a second course in the standard calculus sequence covering integral calculus. Topics include: review of the definition of definite integral and the fundamental theorem of calculus limits, the definition of the integral, rules and techniques of integration, applications of the integral, improper integrals, conic sections and polar coordinates, sequences and series, and polynomial approximations of functions. Note: A grade of C or better is required to take the next course in the sequence. Prerequisite(s): Completion of MATH215 with a C grade or above"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 317,
+    "class_credits": 4,
+    "class_name": "Calculus III",
+    "class_tags": "",
+    "class_description": "This course is the third one in the standard calculus sequence. It covers three-dimensional Euclidean space including lines, planes and vector operations; multivariable scalar and vector-valued functions; partial derivatives; line and surface integrals; multiple integration; and Green?s, Stokes?, and the divergence theorems. Prerequisite(s): Completion of MATH216 with a C grade or above"
+  },
+  {
+    "class_category": "MATH",
+    "class_category_name": "Mathematics",
+    "class_level": 350,
+    "class_credits": 4,
+    "class_name": "Differential Equations with Modeling",
+    "class_tags": "",
+    "class_description": "This course covers first order differential equations including graphical solutions, second order linear differential equations, systems of first order linear differential equations, theory and techniques of linearization, and first order systems of nonlinear differential equations. This course covers numerical methods with an emphasis on applied modeling applications including a modeling project which may use iterative methods. Prerequisite(s): Completion of MATH317"
+  }
+]
