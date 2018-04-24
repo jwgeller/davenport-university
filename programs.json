@@ -1,91 +1,95 @@
 [
-  "Computer Information Systems BS": [
-    {
-      "program_segment": "Foundations of Excellence",
-      "classes": "ACES100 or (if exempt) Open Electives",
-      "classes": [
-        "COMM120",
-        "ENGL109",
-        "ENGL110",
-        "ENGL331",
-        "MATH150",
-        "MATH215",
-        "SOSC201",
-        "SOSC301",
-        "STAT220"
-      ]
-    },
-    {
-      "program_segment": "Foundations of Business",
-      "classes": [
-        "ACCT200",
-        "BUSN210",
-        "MGMT211"
-      ]
-    },
-    {
-      "program_segment": "Foundations of Computer Information Systems Co-op",
-      "classes": [ 
-        "CIOP197",
-        "CISP111",
-        "CISP247",
-        "MATH250",
-        "CSCI231",
-        "GPMT287"
-      ]
-    },
-    {
-      "program_segment": "Choose One",
-      "classes": [
-        "CSCI232",
-        "CSCI234",
-        "CSCI239"
-      ]
-    },
-    {
-      "program_segment": "Major",
-      "classes": [
-        "CSICP211",
-        "CISP220",
-        "CISP238",
-        "CISP309",
-        "CISP340",
-        "CSCI312",
-        "CSCI342",
-        "CISP401",
-        "CISP490 or TECH489",
-        "TECH497",
-        "CSCI420",
-        "CSCI430"
-    },
-    {
-      "program_segment": "Database and Analytics Specialty",
-      "classes": [
-        "CISP325",
-        "CISP446",
-        "CSCI280",
-        "CSCI420",
-        "STAT322"
-      ]    
-    },
-    {
-      "program_segment": "Programming Specialty",
-      "classes": [
-        "CISP410",
-        "CSCI420",
-        "CSCI430",
-        "Choose 2: CSCI232, CSCI234, CSCI239"
-      ]
-    },
-    {
-      "program_segment": "Web and Mobile Development Specialty",
-      "classes": [
-        "BITS301",
-        "CISP303",
-        "CISP310",
-        "CISP316",
-        "CISP341"
-      ]
-    }
-  ]
+  {
+    "program_name" : "Computer Information Systems BS",
+    "program_segments" : [
+      {
+        "segment_name": "Foundations of Excellence",
+        "classes": [
+          "ACES100 or (if exempt) Open Electives",
+          "COMM120",
+          "ENGL109",
+          "ENGL110",
+          "ENGL331",
+          "MATH150",
+          "MATH215",
+          "SOSC201",
+          "SOSC301",
+          "STAT220"
+        ]
+      },
+      {
+        "segment_name": "Foundations of Business",
+        "classes": [
+          "ACCT200",
+          "BUSN210",
+          "MGMT211"
+        ]
+      },
+      {
+        "segment_name": "Foundations of Computer Information Systems Co-op",
+        "classes": [ 
+          "CIOP197",
+          "CISP111",
+          "CISP247",
+          "MATH250",
+          "CSCI231",
+          "GPMT287"
+        ]
+      },
+      {
+        "segment_name": "Choose One",
+        "classes": [
+          "CSCI232",
+          "CSCI234",
+          "CSCI239"
+        ]
+      },
+      {
+        "segment_name": "Major",
+        "classes": [
+          "CSICP211",
+          "CISP220",
+          "CISP238",
+          "CISP309",
+          "CISP340",
+          "CSCI312",
+          "CSCI342",
+          "CISP401",
+          "CISP490 or TECH489",
+          "TECH497",
+          "CSCI420",
+          "CSCI430"
+        ]
+      },
+      {
+        "segment_name": "Database and Analytics Specialty",
+        "classes": [
+          "CISP325",
+          "CISP446",
+          "CSCI280",
+          "CSCI420",
+          "STAT322"
+        ]    
+      },
+      {
+        "segment_name": "Programming Specialty",
+        "classes": [
+          "CISP410",
+          "CSCI420",
+          "CSCI430",
+          "Choose 2: CSCI232, CSCI234, CSCI239"
+        ]
+      },
+      {
+        "segment_name": "Web and Mobile Development Specialty",
+        "classes": [
+          "BITS301",
+          "CISP303",
+          "CISP310",
+          "CISP316",
+          "CISP341"
+        ]
+      }
+    ]
+  }      
 ]
