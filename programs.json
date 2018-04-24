@@ -1,7 +1,7 @@
 [
   {
-    "program_name" : "Computer Information Systems BS",
-    "program_segments" : [
+    "program_name": "Computer Information Systems BS",
+    "program_segments": [
       {
         "segment_name": "Foundations of Excellence",
         "classes": [
@@ -26,7 +26,7 @@
         ]
       },
       {
-        "segment_name": "Foundations of Computer Information Systems Co-op",
+        "segment_name": "Foundations of Computer Information Systems",
         "classes": [ 
           "CIOP197",
           "CISP111",
@@ -91,5 +91,97 @@
         ]
       }
     ]
-  }      
+  },
+  {
+    "program_name": "Computer Science BS",
+    "program_segments": [
+      {
+        "segment_name": "Foundations of Excellence",
+        "classes": [
+          "ACES100 or (if exempt) Open Electives",
+          "BUSN210",
+          "COMM120",
+          "ENGL109",
+          "ENGL110",
+          "ENGL331",
+          "MATH205",
+          "MATH215",
+          "PHYS100",
+          "PHYS100L",
+          "SOSC201",
+          "SOSC301",
+          "STAT220"
+        ]
+      },
+      {
+        "segment_name": "Foundations of Computer Science",
+        "classes": [
+          "CISP111",
+          "CISP247",
+          "MATH250",
+          "CSCI231",
+          "CSCI234",
+          "GPMT287"
+        ]
+      },
+      {
+        "segment_name": "Choose One",
+        "classes": [
+          "CSCI232",
+          "CSCI234",
+          "CSCI239"
+        ]
+      },
+      {
+        "segment_name": "Major",
+        "classes": [
+          "CSCI222",
+          "CSCI258",
+          "CSCI260",
+          "CSCI280",
+          "CSCI312",
+          "CSCI380",
+          "IAS221",
+          "CSCI490 or TECH489",
+          "CSCI497",
+          "MATH140"
+        ]
+      },
+      {
+        "segment_name": "Biometrics Specialty",
+        "classes": [
+          "CSCI326",
+          "CSCI410",
+          "CSCI445",
+          "CSCI446"
+        ]
+      },
+      {
+        "segment_name": "Computer Architecture and Algorithms Specialty",
+        "classes": [
+          "CSCI268",
+          "CSCI430",
+          "CSCI440",
+          "CSCI445"
+        ]
+      },
+      {
+        "segment_name": "Gaming and Simulations Specialty",
+        "classes": [
+          "CSCI335",
+          "CSCI370",
+          "CSCI440",
+          "CSCI448"
+        ]
+      },
+      {
+        "segment_name": "Mathematical Modeling Specialty",
+        "classes": [
+          "MATH216",
+          "MATH317",
+          "MATH350"
+        ]
+      }
+    ]
+  }
 ]
