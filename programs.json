@@ -9,7 +9,7 @@
           "COMM120",
           "ENGL109",
           "ENGL110",
-          "ENGL331",
+          "ENGL311",
           "MATH150",
           "MATH215",
           "SOSC201",
@@ -47,7 +47,7 @@
       {
         "segment_name": "Major",
         "classes": [
-          "CSICP211",
+          "CISP211",
           "CISP220",
           "CISP238",
           "CISP309",
