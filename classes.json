@@ -718,5 +718,14 @@
     "class_name": "Differential Equations with Modeling",
     "class_tags": "",
     "class_description": "This course covers first order differential equations including graphical solutions, second order linear differential equations, systems of first order linear differential equations, theory and techniques of linearization, and first order systems of nonlinear differential equations. This course covers numerical methods with an emphasis on applied modeling applications including a modeling project which may use iterative methods. Prerequisite(s): Completion of MATH317"
-  }
+  },
+  {
+    "class_code": "TECH489",
+    "class_category": "TECH",
+    "class_category_name": "Technology",
+    "class_level": 489,
+    "class_credits": 3,
+    "class_name": "Field Experience in Technology",
+    "class_tags": "",
+    "class_description": "This course provides students the opportunity to apply discipline-related knowledge through live, field-based projects with organizational clients from diverse industries and sectors, including entrepreneurs, small businesses, and non-profit organizations, among others. Teams of three to five students, with support of faculty, provide data, analysis, and recommendations designed to help clients achieve technological advances to solve organizational challenges and to impact growth. This qualifies as an Experiential Learning option within the College of Technology. Prerequisite(s): Senior status and minimum GPA of 2.3"
 ]
