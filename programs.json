@@ -77,7 +77,7 @@
           "CISP410",
           "CSCI420",
           "CSCI430",
-          "Choose 2: CSCI232, CSCI234, CSCI239"
+          "Choose 2: CSCI232 CSCI234 CSCI239"
         ]
       },
       {
@@ -141,7 +141,7 @@
           "CSCI280",
           "CSCI312",
           "CSCI380",
-          "IAS221",
+          "IAAS221",
           "CSCI490 or TECH489",
           "CSCI497",
           "MATH140"
